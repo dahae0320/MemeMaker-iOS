@@ -50,7 +50,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func choiceBottomCaptionSegmentedControl(_ sender: Any) {
-        let index = topCaptionSegmentedControl.selectedSegmentIndex
+        let index = bottomCaptionSegmentedControl.selectedSegmentIndex
         setCaptionLabel(index: index, is_top: false)
         
     }
