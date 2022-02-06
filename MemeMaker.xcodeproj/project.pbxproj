@@ -16,6 +16,7 @@
 		680EED0527AFDF930038D34B /* MemeMakerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680EED0427AFDF930038D34B /* MemeMakerTests.swift */; };
 		680EED0F27AFDF930038D34B /* MemeMakerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680EED0E27AFDF930038D34B /* MemeMakerUITests.swift */; };
 		680EED1127AFDF930038D34B /* MemeMakerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680EED1027AFDF930038D34B /* MemeMakerUITestsLaunchTests.swift */; };
+		680EED1E27AFE8C20038D34B /* CaptionChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680EED1D27AFE8C20038D34B /* CaptionChoice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		680EED0A27AFDF930038D34B /* MemeMakerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemeMakerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		680EED0E27AFDF930038D34B /* MemeMakerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeMakerUITests.swift; sourceTree = "<group>"; };
 		680EED1027AFDF930038D34B /* MemeMakerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeMakerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		680EED1D27AFE8C20038D34B /* CaptionChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionChoice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				680EECF627AFDF930038D34B /* Assets.xcassets */,
 				680EECF827AFDF930038D34B /* LaunchScreen.storyboard */,
 				680EECFB27AFDF930038D34B /* Info.plist */,
+				680EED1D27AFE8C20038D34B /* CaptionChoice.swift */,
 			);
 			path = MemeMaker;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				680EECF227AFDF920038D34B /* ViewController.swift in Sources */,
 				680EECEE27AFDF920038D34B /* AppDelegate.swift in Sources */,
 				680EECF027AFDF920038D34B /* SceneDelegate.swift in Sources */,
+				680EED1E27AFE8C20038D34B /* CaptionChoice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
